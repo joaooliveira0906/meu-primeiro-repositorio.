@@ -1,5 +1,5 @@
-Nome:
-Cidade:
-Um hobby:
-Uma área da tecnologia que chama sua atenção:
-Uma curiosidade sobre você:
+Nome: João 
+Cidade: Canoas
+Um hobby: Andar de moto
+Uma área da tecnologia que chama sua atenção: front-end
+Uma curiosidade sobre você: Jogo basquete
