@@ -5,3 +5,5 @@
 - Data: 11/06/2026
 ## Objetivo
 Aprender a utilizar Git e GitHub.
+## Aprendizado
+Nesta atividade, aprendi a enviar alterações para o GitHub.
